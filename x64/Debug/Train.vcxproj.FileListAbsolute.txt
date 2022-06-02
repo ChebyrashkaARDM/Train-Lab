@@ -1,0 +1,5 @@
+C:\Users\USER\source\repos\Visual Programming\Train\x64\Debug\Train.vcxproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Visual Programming\Train\x64\Debug\Train.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Visual Programming\Train\x64\Debug\Train.exe
+C:\Users\USER\source\repos\Visual Programming\Train\x64\Debug\Train.MyForm.resources
+C:\Users\USER\source\repos\Visual Programming\Train\x64\Debug\Train.vcxproj.GenerateResource.cache
